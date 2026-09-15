@@ -31,4 +31,3 @@ npm run preview
 ## 배포
 
 저장소의 GitHub Pages 소스를 GitHub Actions로 설정합니다. main 브랜치 갱신 시 `.github/workflows/deploy.yml`이 빌드하고 게시합니다.
-
